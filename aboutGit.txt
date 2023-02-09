@@ -1,0 +1,7 @@
+1.Git is a tool that's used to manage multiple versoins of source code edits that are then transferred to files in a git repository,Github serves as a location for uploading copies of a Git repository.In a sense,then,there's no comparison when it comes to  Git vs Github as far as their function
+2.git --version, to check ur git installation is comleted or not
+3.git config --global user.name"user name", to check ur profileis done or not
+4.mkdir filename, to make a new repository
+5.git init , to initiate a new repository
+6.git status, to check status of git new file
+7. ls, to see the list of the directories
