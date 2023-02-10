@@ -4,4 +4,6 @@
 4.mkdir filename, to make a new repository
 5.git init , to initiate a new repository
 6.git status, to check status of git new file
-7. ls, to see the list of the directories
+7. ls, to see the list of the directories.
+to make a pull repository.. 1st click pull request then find the branch of whom u want to collaborate with.It uses to  transfer   remote repository to local repository.
+open source is a software which is flexible for all who want to work in that community work....and we can edit all changes which we want to add in that at anywhere and anytime.
